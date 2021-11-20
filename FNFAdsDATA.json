@@ -16,11 +16,11 @@
     "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu",
     "ApplovinPosition": 0,
     "EnableOnerAds": 0,
-    "OnerAdsUrl": "",
-    "OnerImageUrl": "",
+    "OnerAdsUrl": "https://raw.githubusercontent.com/FBGDFB/test-adds/main/img.jpg",
+    "OnerImageUrl": "https://raw.githubusercontent.com/FBGDFB/test-adds/main/img.jpg",
     "OnerImageADS": {
         "instanceID": 0
     },
-    "OnerAdsTitle": "",
-    "OnerAdsDiscription": ""
+    "OnerAdsTitle": "Taital hnaya",
+    "OnerAdsDiscription": "hnaya discription dyal ads"
 }
