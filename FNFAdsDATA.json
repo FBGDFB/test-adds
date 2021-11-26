@@ -14,13 +14,19 @@
     "AdmobOption": 0,
     "EnableApplovin": 0,
     "SDK_key": "-XWxT5Gxq1S0H_f3LV_LbJfpNCO4Gmo8ML2iLePyla1kKmRlbksSKo0_U4CICiOW8AKc_mAZGHxyZDFTsF37vu",
-    "ApplovinPosition": 0,
+    "ApplovinPosition": 1,
     "EnableOnerAds": 0,
-    "OnerAdsUrl": "https://raw.githubusercontent.com/FBGDFB/test-adds/main/img.jpg",
-    "OnerImageUrl": "https://raw.githubusercontent.com/FBGDFB/test-adds/main/img.jpg",
+    "OnerAdsUrl": "FNF",
+    "OnerImageUrl": "https://raw.githubusercontent.com/FBGDFB/test-adds/main/adzzz.png",
     "OnerImageADS": {
         "instanceID": 0
     },
-    "OnerAdsTitle": "Taital hnaya",
-    "OnerAdsDiscription": "hnaya discription dyal ads"
+    "IsSerchLinkForFullScrin": false,
+    "EnableOnerBanner": 0,
+    "OnerBannerUrl": "FNF",
+    "BannerImageUrl": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/320-50.png",
+    "OnerImageBanner": {
+        "instanceID": 0
+    },
+    "IsSerchLinkForBanner": true
 }
